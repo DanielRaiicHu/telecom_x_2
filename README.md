@@ -28,6 +28,9 @@ El propósito de este proyecto es **construir un modelo de predicción de evasi�
 -  Gráficos exportados del proyecto:  
    [Carpeta de gráficos](https://github.com/DanielRaiicHu/telecom_x_2/tree/main/graficos_del_proyecto)
 
+-  Notebook del proyecto — Desafío 1 (base inicial de preparación de datos):  
+   [Notebook: TelecomX.ipynb](https://github.com/DanielRaiicHu/TelecomX/blob/main/TelecomX.ipynb)
+
 ---
 
 ##  Ejecución del Proyecto
